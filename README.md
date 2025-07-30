@@ -17,17 +17,6 @@ This project analyzes vendor and product performance using sales, cost, and inve
 - Which products have high inventory but low turnover?
 - Should certain brands be promoted or discounted?
 
----
-
-## 📂 Repository Structure
-📁 vendor-performance-analysis/
-├── vendor_performance_analysis.ipynb # Jupyter Notebook with analysis
-├── data/ # Raw data in CSV or Excel format
-├── ingestion_db/ # SQLite database with cleaned tables
-├── Vendor Performance Report.pdf # Business report PDF
-└── README.md # Project documentation
-
----
 
 ## 🛠️ Technologies Used
 
